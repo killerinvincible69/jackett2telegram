@@ -8,8 +8,8 @@
       "python",
       "rss-bot"
     ],
-    "repository": "https://github.com/reaitten/jackett2telegram",
-    "website": "https://github.com/reaitten/jackett2telegram",
+    "repository": "https://github.com/killerinvincible69/jackett2telegram",
+    "website": "https://github.com/killerinvincible69/jackett2telegram",
     "success_url": "https://t.me/orsixtyone",
     "stack": "container",
     "env": {
